@@ -1,5 +1,7 @@
 # Git Command Cheat Sheet
 
+![Git Flow](./git.jpg)
+
 ## Setup & Configuration
 
 ```bash
